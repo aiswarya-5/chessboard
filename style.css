@@ -3,9 +3,11 @@
 	padding:0px;
 }
 .chess{
-	width: 50%;
-	margin: auto;
+	width: 500px;
+    	height: 500px;
+	margin: 14px auto;
     	border: 15px solid #281D14;
+	padding:3px;
 }
 .white{
 	background-color: #EDEBE9;
