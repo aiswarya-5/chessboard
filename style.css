@@ -1,0 +1,24 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.chess{
+	width: 50%;
+	margin: auto;
+    	border: 15px solid #281D14;
+}
+.white{
+	background-color: #EDEBE9;
+	width:12.5%;
+	height:12.5%;
+	float:left;
+}
+.black{
+	background-color: #262626;
+	width:12.5%;
+	height:12.5%;
+	float:left;
+}
+.clear{
+	clear:both;
+}
