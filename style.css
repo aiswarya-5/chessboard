@@ -1,13 +1,13 @@
 *{
 	margin:0px;
 	padding:0px;
+	background-color: #dcdcdc
 }
 .chess{
 	width: 500px;
     	height: 500px;
 	margin: 14px auto;
-    	border: 15px solid #281D14;
-	padding:3px;
+    	border: 14px solid #281D14;
 }
 .white{
 	background-color: #EDEBE9;
